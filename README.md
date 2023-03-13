@@ -4,9 +4,7 @@
 <img src="https://raw.githubusercontent.com/wakhiwemathuthu/wallpapers/main/screenshots/InstaMocks_20230312_185051878.png" height="500"></img>
 <img src="https://raw.githubusercontent.com/wakhiwemathuthu/wallpapers/main/screenshots/InstaMocks_20230312_184827781.png" height="500"></img>
 
--[admin_panel_app](https://github.com/wakhiwemathuthu/wallpapers_admin)
-
-A new Flutter project.
+## [admin_panel_app](https://github.com/wakhiwemathuthu/wallpapers_admin)
 
 ## Getting Started
 
