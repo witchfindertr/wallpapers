@@ -1,8 +1,8 @@
 # wallpapers
-<img src="https://github.com/wakhiwemathuthu/simple_calculator/blob/master/screenshots/InstaMocks_20230312_184827781.png?raw=true" height="500"></img>
-<img src="https://github.com/wakhiwemathuthu/simple_calculator/blob/master/screenshots/InstaMocks_20230312_184846784.png?raw=true" height="500"></img>
-<img src="https://github.com/wakhiwemathuthu/simple_calculator/blob/master/screenshots/InstaMocks_20230312_184905077.png?raw=true" height="500"></img>
-<img src="https://github.com/wakhiwemathuthu/simple_calculator/blob/master/screenshots/InstaMocks_20230312_185051878.png?raw=true" height="500"></img>
+<img src="https://github.com/wakhiwemathuthu/wallpapers/blob/master/screenshots/InstaMocks_20230312_184827781.png?raw=true" height="500"></img>
+<img src="https://github.com/wakhiwemathuthu/wallpapers/blob/master/screenshots/InstaMocks_20230312_184846784.png?raw=true" height="500"></img>
+<img src="https://github.com/wakhiwemathuthu/wallpapers/blob/master/screenshots/InstaMocks_20230312_184905077.png?raw=true" height="500"></img>
+<img src="https://github.com/wakhiwemathuthu/wallpapers/blob/master/screenshots/InstaMocks_20230312_185051878.png?raw=true" height="500"></img>
 
 A new Flutter project.
 
