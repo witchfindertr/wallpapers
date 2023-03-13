@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153333466103",
+    "project_id": "org-wallpapers",
+    "storage_bucket": "org-wallpapers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153333466103:android:3c888e7efc159cf26ee4f2",
+        "android_client_info": {
+          "package_name": "com.wakhiwemathuthu.wallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153333466103-rfbm0bd341lejcg4fvjj09hmv74dldt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw3JAIVEhFfnPFYUAq4TU81SY1BYBjYnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153333466103-rfbm0bd341lejcg4fvjj09hmv74dldt6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
